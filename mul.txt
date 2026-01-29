@@ -1,0 +1,1 @@
+print("Division:", 40/6)
